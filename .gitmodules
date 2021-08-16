@@ -1,0 +1,9 @@
+[submodule "lib/SerialCom"]
+	path = lib/SerialCom
+	url = https://github.com/BEAT-System/SerialCom
+[submodule "lib/VentiData"]
+	path = lib/VentiData
+	url = https://github.com/BEAT-System/VentiData
+[submodule "lib/Beat-Control"]
+	path = lib/Beat-Control
+	url = https://github.com/BEAT-System/Beat-Control
